@@ -5,11 +5,10 @@ body {
 }
 
 header {
-    background-color: #636060;
+    background-color: #ff6f61; /* Vermelho vivo */
     color: white;
     text-align: center;
     padding: 1em 0;
-    
 }
 
 #projetos {
@@ -18,7 +17,7 @@ header {
 }
 
 footer {
-    background-color: #636060;
+    background-color: #ff6f61; /* Vermelho vivo */
     color: #fff;
     text-align: center;
     padding: 1em 0;
@@ -36,18 +35,18 @@ header img {
 }
 
 #contato a {
-    color: #25d366;
+    color: #25d366; /* Verde vivo */
     text-decoration: none;
     display: flex;
     margin: 0;
-    background-color: #636060;
-    color: rgb(6, 248, 111);
+    background-color: #ff6f61; /* Vermelho vivo */
+    color: rgb(6, 248, 111); /* Verde vivo */
     font-family: Arial, sans-serif;
 }
 
 .menu-lateral {
     width: 1433px;
-    background-color: #636060;
+    background-color: #ff6f61; /* Vermelho vivo */
     padding: 20px;
     position: sticky;
     z-index: 1;
